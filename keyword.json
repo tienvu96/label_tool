@@ -1,113 +1,111 @@
 {
-    "bí mật": {
-        "tên khách hàng": [
-            "tên khách hàng",
-            "họ và tên",
-            "họ tên",
-            "name",
-            "fullname"
-        ],
-        "thông tin địa chỉ": [
-            "địa chỉ",
-            "address",
-            "địa chỉ giao dịch",
-            "địa chỉ cư trú"
-        ],
-        "thông tin số id": [
-            "mã số thuế",
-            "cmnd",
-            "hộ chiếu",
-            "số cif",
-            "cccd",
-            "số giấy chứng nhận đăng ký kinh doanh",
-            "số quyết định thành lập"
-        ],
-        "thông tin thẻ": [
-            "số tài khoản",
-            "Tên chủ thẻ",
-            "Ngày hết hạn",
-            "Mã bảo mật (CVV/CVC)",
-            "Mã PIN",
-            "Dữ liệu dải từ",
-            "Dữ liệu chip EMV",
-            "Thông tin giao dịch",
-            "Thông tin ngân hàng liên quan"
-        ],
-        "kỳ hạn": [
-            "kỳ hạn",
-            "ngắn hạn",
-            "trung hạn",
-            "dài hạn",
-            "không kỳ hạn"
-        ],
-        "thông tin lãi suất tiền gửi": [
-            "lãi suất",
-            "lãi suất tiền gửi",
-            "lãi suất trung bình"
-        ],
-        "thông tin doanh số": [
-            "doanh số ghi có",
-            "doanh số ghi nợ",
-            "doanh số khách hàng ghi có",
-            "doanh số khách hàng ghi nợ"
-        ],
-        "thông tin số dư": [
-            "số dư nội bảng",
-            "số dư ngoại bảng",
-            "số dư cuối ngày",
-            "số dư bình quân",
-            "dư nợ hạch toán ngoại bảng",
-            "hạn mức tín dụng",
-            "số dư đầu kỳ",
-            "số dư cuối kỳ",
-            "số tiền thanh toán tối thiểu",
-            "số dư cuối ngày",
-            "số dư bình quân",
-            "số dư tiền gửi",
-            "số dư lãi phải thu cuối kỳ"
-        ],
-        "thông tin vay": [
-            "mục đích cho vay",
-            "tên mục đích vay",
-            "mã mục đích vay"
-        ],
-        "thông tin  sự kiện": [
-            "ngày vay",
-            "ngày đáo hạn",
-            "ngày thành lập công ty",
-            "ngày sinh khách hàng",
-            "ngày giao dịch"
-        ],
-        "thông tin nợ": [
-            "phân loại nợ theo hệ thống xếp hạng của ngân hàng",
-            "mã trạng thái nhóm nợ",
-            "tên trạng thái nhóm nợ",
-            "nợ nghi ngờ",
-            "nợ cần chú ý",
-            "nợ dư tiêu chuẩn",
-            "nợ dưới tiêu chuẩn",
-            "nợ có khả năng mất vốn",
-            "nợ không xác định",
-            "nhóm nợ khách hàng",
-            "dư nợ tín dụng của khách hàng",
-            "tổng mức dư nợ cấp tín dụng",
-            "dư nợ"
-        ],
-        "thông tin tài liệu": [
-            "tài liệu mật",
-            "tài liệu tối mật",
-            "tài liệu tuyệt mật",
-            "thông tin mật",
-            "tài liệu hạn chế tiếp cận",
-            "thông tin hạn chế tiếp cận"
-        ]
-    },
-    "nội bộ": {
-        "tài liệu nội bộ": [
-            "lưu hành nội bộ",
-            "thông tin lưu hành nội bộ tại đơn vị",
-            "báo cáo vụ việc",
-            "biện pháp ứng phó"
-        ]
-    }
+    "tên khách hàng": [
+        "tên khách hàng",
+        "họ và tên",
+        "họ tên",
+        "fullname"
+    ],
+    "thông tin địa chỉ": [
+        "địa chỉ",
+        "address",
+        "địa chỉ giao dịch",
+        "địa chỉ cư trú"
+    ],
+    "thông tin số id": [
+        "chủ thẻ",
+        "mã số thuế",
+        "cmnd",
+        "hộ chiếu",
+        "số cif",
+        "cccd",
+        "số giấy chứng nhận đăng ký kinh doanh",
+        "số quyết định thành lập"
+    ],
+    "thông tin thẻ": [
+        "số tài khoản",
+        "tên chủ thẻ",
+        "ngày hết hạn",
+        "mã bảo mật (CVV/CVC)",
+        "mã pin",
+        "dữ liệu dải từ",
+        "dữ liệu chip emv",
+        "thông tin giao dịch",
+        "thông tin ngân hàng liên quan"
+    ],
+    "kỳ hạn": [
+        "kỳ hạn",
+        "ngắn hạn",
+        "trung hạn",
+        "dài hạn",
+        "không kỳ hạn"
+    ],
+    "thông tin lãi suất tiền gửi": [
+        "lãi suất",
+        "lãi suất tiền gửi",
+        "lãi suất trung bình"
+    ],
+    "thông tin doanh số": [
+        "doanh số ghi có",
+        "doanh số ghi nợ",
+        "doanh số khách hàng ghi có",
+        "doanh số khách hàng ghi nợ"
+    ],
+    "thông tin số dư": [
+        "số dư nội bảng",
+        "số dư ngoại bảng",
+        "số dư cuối ngày",
+        "số dư bình quân",
+        "dư nợ hạch toán ngoại bảng",
+        "hạn mức tín dụng",
+        "số dư đầu kỳ",
+        "số dư cuối kỳ",
+        "số tiền thanh toán tối thiểu",
+        "số dư cuối ngày",
+        "số dư bình quân",
+        "số dư tiền gửi",
+        "số dư lãi phải thu cuối kỳ"
+    ],
+    "thông tin vay": [
+        "mục đích cho vay",
+        "tên mục đích vay",
+        "mã mục đích vay"
+    ],
+    "thông tin  sự kiện": [
+        "ngày vay",
+        "ngày đáo hạn",
+        "ngày thành lập công ty",
+        "ngày sinh khách hàng",
+        "ngày giao dịch"
+    ],
+    "thông tin nợ": [
+        "phân loại nợ theo hệ thống xếp hạng của ngân hàng",
+        "mã trạng thái nhóm nợ",
+        "tên trạng thái nhóm nợ",
+        "nợ nghi ngờ",
+        "nợ cần chú ý",
+        "nợ dư tiêu chuẩn",
+        "nợ dưới tiêu chuẩn",
+        "nợ có khả năng mất vốn",
+        "nợ không xác định",
+        "nhóm nợ khách hàng",
+        "dư nợ tín dụng của khách hàng",
+        "tổng mức dư nợ cấp tín dụng",
+        "dư nợ"
+    ],
+    "thông tin tài liệu": [
+        "tài liệu mật",
+        "mật",
+        "tối mật",
+        "tuyệt mật",
+        "tài liệu tối mật",
+        "tài liệu tuyệt mật",
+        "thông tin mật",
+        "tài liệu hạn chế tiếp cận",
+        "thông tin hạn chế tiếp cận"
+    ],
+    "tài liệu nội bộ": [
+        "lưu hành nội bộ",
+        "thông tin lưu hành nội bộ tại đơn vị",
+        "tài liệu nội bộ"
+    ]
 }
